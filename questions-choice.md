@@ -1,6 +1,5 @@
 ---
-
-    - questionTitle: "Выбери правильный ответ"
+    questionTitle: "Выбери правильный ответ"
       questionDescription: 
         - "Кто является основным создателем языка Java Script?"
       answers: 
@@ -13,7 +12,7 @@
       complexity: "low"
       theme: 1
 
-    - questionTitle: "Какую строку выведет console.log?"
+     questionTitle: "Какую строку выведет console.log?"
       questionDescription: 
         - "var a='1';"
         - "var b = 1;"
@@ -29,7 +28,7 @@
       complexity: "low"
       theme: 1
 
-    - questionTitle: "Какое значение будет выведено в консоли?"
+     questionTitle: "Какое значение будет выведено в консоли?"
       questionDescription: 
         - "result = 0;"
         - "function addValue(x) {"
@@ -47,7 +46,7 @@
       complexity: "low"
       theme: 1
 
-    - questionTitle: "Какое значение будет выведено в консоли?"
+     questionTitle: "Какое значение будет выведено в консоли?"
       questionDescription: 
         - "var output = (function(x) {"
         - "  delete x;"
@@ -64,7 +63,7 @@
       complexity: "low"
       theme: 1
 
-    - questionTitle: "Какое значение будет выведено в консоли?"
+     questionTitle: "Какое значение будет выведено в консоли?"
       questionDescription: 
         - "var x = 1;"
         - "var output = (function(x) {"
@@ -82,7 +81,7 @@
       complexity: "low"
       theme: 1
 
-    - questionTitle: "Какое значение будет выведено в консоли?"
+     questionTitle: "Какое значение будет выведено в консоли?"
       questionDescription: 
         - "var x = { foo : 1}"
         - "var output = (function(x) {"
@@ -100,7 +99,7 @@
       complexity: "low"
       theme: 1
 
-    - questionTitle: "Какое значение будет выведено в консоли?"
+     questionTitle: "Какое значение будет выведено в консоли?"
       questionDescription: 
         - "var Employee = {"
         - "  company: 'xyz'"
@@ -118,7 +117,7 @@
       complexity: "low"
       theme: 1
 
-    - questionTitle: "Какое значение будет выведено в консоли?"
+     questionTitle: "Какое значение будет выведено в консоли?"
       questionDescription: 
         - "var trees = ['xyz', 'xxxx', 'test', 'ryan', 'apple'];"
         - "delete trees[3];"
@@ -133,7 +132,7 @@
       complexity: "low"
       theme: 1
 
-    - questionTitle: "Какое значение будет выведено в консоли?"
+     questionTitle: "Какое значение будет выведено в консоли?"
       questionDescription: 
         - "var bar = true;"
         - "console.log(bar + 0);"
@@ -157,7 +156,7 @@
       complexity: "low"
       theme: 1
 
-    - questionTitle: "Какое значение будет выведено в консоли?"
+     questionTitle: "Какое значение будет выведено в консоли?"
       questionDescription: 
         - "var z = 1, y = z = typeof y;"
         - "console.log(y);"
